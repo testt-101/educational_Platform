@@ -1,8 +1,8 @@
 <?php
  
-$databasename = "Educational metaverse platform";
+$databasename = "Educational_metaverse_platform";
 $host = "localhost";
-$dbuser = "root";
+$dbuser = "PlatformAdmin";
 $dbpassword = "";
 $connection = mysqli_connect($host, $dbuser, $dbpassword, $databasename);
  
